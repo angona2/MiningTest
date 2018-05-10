@@ -1,0 +1,23 @@
+Welcome to the alpha testing stages of Mine With Friends.
+
+You will find installation directions below, follow them VERY closely. The current implementation is for a small
+ group of users for statistical analysis so the program isn't "1 click" user-friendly quite yet, but it is still
+ quite easy.
+
+**Make sure you install the files I provide FIRST**
+
+1. Double click the java file "Zclassic". This will create a zclassic wallet for you so you can store your own coins.
+	**The wallet will need to synchronize, this can take a lot of time.**
+
+2. Once you are in "Zclassic Swing Wallet UI 0.58 (beta)" click on the tab "Own addresses" and copy the address which
+ looks something like this... t1ZbFYip9uEaCqughVbWbasrMAwtPv2hz8q - write this down or save it in a word doc just in case
+
+3. Right click the windows batch file "start" and select "edit"
+
+4. Once in the file you should see where to put your wallet address, remove the text and paranthesis I put in and replace
+ with your wallet address.
+	Example: miner --server 45.55.45.68 --port 3032 --user t1VMhhXd9nVHkMVKja86MCKgEXSqooWF91x --pass x
+
+5. Click on "File" and "Save"
+
+6. Now simply double click start and you will be mining with friends!!
