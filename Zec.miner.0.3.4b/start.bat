@@ -1,1 +1,1 @@
-miner --server 45.55.45.68 --port 3032 --user t1VMhhXd9nVHkMVKja86MCKgEXSqooWF91x.jakeangona --pass x --tempunits C --templimit 75 --cuda_devices 0 1 2 --intensity 64 64 64 --fee 0
+miner --server 45.55.45.68 --port 3038 --user b15BNnnwp3VR76zBnVb3zYuLhUjwX9ibrNT.miningrigDERRIE --pass x --tempunits C --templimit 65 --cuda_devices 0 --intensity 32 --fee 0
