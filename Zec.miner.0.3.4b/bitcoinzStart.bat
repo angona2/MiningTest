@@ -1,0 +1,1 @@
+miner --server 45.55.45.68 --algo 144_5 --pers BitcoinZ --port 3042 --user t1a7Uy2vHhsJNAKwiiNyMWsykYPpJQaVxf3.SCOTT --fee 0 --pass x
